@@ -1,0 +1,18 @@
+{
+    "name": "Alper",
+    "lang": "tr",
+     "theme_color": "#14161c",
+     "background_color": "#14161c",
+     "display": "standalone",
+     "orientation": "portrait",
+     "scope": "/",
+     "start_url": "/alper",
+    "icons": [
+     {
+      "src": "assets/img/istanbulBeyefendisiRounded.png",
+      "sizes": "512x512",
+      "type": "image\/png",
+      "density": "5.0"
+     }
+    ]
+   }
